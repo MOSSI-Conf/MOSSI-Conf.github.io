@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: KOZWaves, Australasian wave science
+---
+<div class="blurb">
+	<!--<h1>KOZWaves: Australasian Wave Science</h1>-->
+	<!--<img src="./kozwaves2.jpg" alt="logo" style="width:500px" class="center" />-->
 
-You can use the [editor on GitHub](https://github.com/MOSSI-Conf/MOSSI-Conf.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+	<p>Welcome to the new KOZWaves site!</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	<p>Find latest news and information here about the biennial conference series</p>
 
-### Markdown
+</div><!-- /.blurb -->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+  <ul class="posts">
+   {% for post in site.posts %}
+   <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+   {% endfor %}
+  </ul>
 
-# Header 1
-## Header 2
-### Header 3
+<!--
+ <h2>Two Equal Columns</h2>
 
-- Bulleted
-- List
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Column 1</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+</div>
+-->
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<!--  <a href="https://twitter.com/KOZWaves?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @KOZWaves</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[Link](url) and ![Image](src)
-```
+  <a href="https://twitter.com/intent/tweet?screen_name=KOZWaves&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @KOZWaves</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+-->
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+  <a class="twitter-timeline"
+   href="https://twitter.com/KOZWaves?ref_src=twsrc%5Etfw"
+   data-width="600"
+   data-height="450"
+   data-chrome="nofooter noscrollbar noborders transparent"
+   data-tweet-limit="3">KOZWaves Tweets</a>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Jekyll Themes
+<!--
+<a class="twitter-timeline"
+   href="https://twitter.com/TwitterDev/timelines/539487832448843776"
+   data-width="800"
+   data-height="600"
+   data-chrome="nofooter noscrollbar noborders transparent"
+   data-tweet-limit="3">National Park Tweets</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+-->
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MOSSI-Conf/MOSSI-Conf.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
