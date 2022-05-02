@@ -12,7 +12,7 @@ title: MOSSI - Mathematics of Sea Ice and Ice Shelves
 
 </div><!-- /.blurb -->
 
-<a href="https://mossi-conf.github.io/MOSSI-22/index.md">link text</a>
+<a href="https://mossi-conf.github.io/MOSSI-22/index.html">MOSSI 2022 Conference</a>
 
 <!--
   <ul class="posts">
