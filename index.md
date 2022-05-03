@@ -2,18 +2,21 @@
 layout: default
 title: MOSSI - Mathematics of Sea Ice and Ice Shelves
 ---
+
+<h1> Welcome to MOSSI!1</h1>
 <div class="blurb">
-	<!--<h1>KOZWaves: Australasian Wave Science</h1>-->
-	<!--<img src="./kozwaves2.jpg" alt="logo" style="width:500px" class="center" />-->
-
-	<p>Welcome to the MOSSI site</p>
-
-	<p>Find latest news and information here about the conference</p>
-
+	<p>Find latest news and information here about the conference - <a href="https://mossi-conf.github.io/MOSSI-22/index.html" (2022)</a></p>
 	<p> <a href="mossi-conf@gmail.com">Email for any further enquiries</a> </p>
 </div><!-- /.blurb -->
 
-<a href="https://mossi-conf.github.io/MOSSI-22/index.html">MOSSI 2022 Conference</a>
+
+<h1>About MOSSI 1</h1>
+<div class="blurb">
+	<p>The cryosphere is one of the critical components of the earth climate systems, and it has been the subject of significant transformation in recent years in response to climate change. There are several mathematical challenges to modelling this system, and the program aims to bring other researchers who are experts in the mathematical modelling of ice sheets and sea ice, two related but separated parts of the cryosphere.</p>
+</div>
+
+
+
 
 <!--
   <ul class="posts">
