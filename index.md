@@ -20,6 +20,10 @@ title: MOSSI - Mathematics of Sea Ice and Ice Shelves
 <iframe width="49%" height=300 src="https://www.youtube.com/embed/Vj1G9gqhkYA" frameborder="0" allowfullscreen></iframe>
 </div>
 
+<h1>Conference</h1>
+<div class="blurb">
+	<p>MOSSI aims to bring together world experts researching sea ice and ice shelves to advance and overcome the key mathematical challenges to advance the field.</p>
+</div>
 
 
 <!--
