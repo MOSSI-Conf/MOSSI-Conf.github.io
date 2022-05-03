@@ -10,6 +10,7 @@ title: MOSSI - Mathematics of Sea Ice and Ice Shelves
 
 	<p>Find latest news and information here about the conference</p>
 
+	<p> <a href="mossi-conf@gmail.com">Email for any further enquiries</a> </p>
 </div><!-- /.blurb -->
 
 <a href="https://mossi-conf.github.io/MOSSI-22/index.html">MOSSI 2022 Conference</a>
