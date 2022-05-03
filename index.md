@@ -10,7 +10,7 @@ title: MOSSI - Mathematics of Sea Ice and Ice Shelves
 </div><!-- /.blurb -->
 
 
-<h1>About MOSSI </h1>
+<h1>About MOSSI</h1>
 <div class="blurb">
 	<p>The cryosphere is one of the critical components of the earth climate systems, and it has been the subject of significant transformation in recent years in response to climate change. There are several mathematical challenges to modelling this system, and the program aims to bring other researchers who are experts in the mathematical modelling of ice sheets and sea ice, two related but separated parts of the cryosphere.</p>
 </div>
