@@ -16,8 +16,8 @@ title: MOSSI - Mathematics of Sea Ice and Ice Shelves
 </div>
 
 <div class="video-wrapper">
-<iframe width="49%" src="https://www.youtube.com/embed/y5z-wXI4l90" frameborder="0" allowfullscreen></iframe>
-<iframe width="49%" src="https://www.youtube.com/embed/Vj1G9gqhkYA" frameborder="0" allowfullscreen></iframe>
+<iframe width="49%" height=300 src="https://www.youtube.com/embed/y5z-wXI4l90" frameborder="0" allowfullscreen></iframe>
+<iframe width="49%" height=300 src="https://www.youtube.com/embed/Vj1G9gqhkYA" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
