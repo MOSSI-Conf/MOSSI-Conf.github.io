@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MOSSI - Mathematics of Sea Ice and Ice Shelves
+title: MOSSI - Mathematics of Sea Ice and Ice Sheets
 ---
 
 <h1> Welcome to MOSSI!</h1>
@@ -12,7 +12,7 @@ title: MOSSI - Mathematics of Sea Ice and Ice Shelves
 
 <h1>About MOSSI</h1>
 <div class="blurb">
-	<p>The cryosphere is one of the critical components of the earth climate systems, and it has been the subject of significant transformation in recent years in response to climate change. There are several mathematical challenges to modelling this system, and the program aims to bring other researchers who are experts in the mathematical modelling of ice sheets and sea ice, two related but separated parts of the cryosphere.</p>
+	<p>The cryosphere is the part of the earth consisting of frozen water, and it plays a crucial role in the Earth’s climate. The cryosphere affects many components of the Earth’s climate system including the amount of solar radiation the Earth reflects as well as circulation in the atmosphere and ocean. The cryosphere has seen significant transformation in recent years in response to climate change. These transformations in turn affect the climate and thus understanding the cryosphere and its interaction with the climate is crucial. Sea ice and ice sheets are two key parts of the cryosphere covering a significant portion of the Earth’s surface which are distinct but related. Owing to their importance sea ice and ice sheets have seen significant research to understand and model them. However, modelling sea ice and ice sheets raises numerous mathematical challenges, some shared, due to the complexity of their interactions with other climate systems as well as the multiple spatial and temporal scales involved. </p>
 </div>
 
 <div class="video-wrapper">
@@ -22,7 +22,7 @@ title: MOSSI - Mathematics of Sea Ice and Ice Shelves
 
 <h1>Conference</h1>
 <div class="blurb">
-	<p>MOSSI aims to bring together world experts researching sea ice and ice shelves to discuss and overcome the key mathematical challenges to advance the field.</p>
+	<p>This workshop brings together mathematicians and geophysicists to exchange knowledge, build a common foundation for the mathematics of sea ice and ice sheets and to discuss and address the key modelling challenges. </p>
 </div>
 
 
